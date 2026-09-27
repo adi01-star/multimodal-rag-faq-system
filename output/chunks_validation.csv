@@ -1,0 +1,28 @@
+chunk_id,doc_id,chunk_index,chunk_number,token_count,category,type,difficulty,language,has_image,image_count,source_url,text_length
+chunk_001_v1,01_account_and_password_faq,0,1,65,Account Management,informational,beginner,en,True,1,,321
+chunk_002_v1,01_account_and_password_faq,1,2,44,Account Management,howto,beginner,en,True,1,,202
+chunk_003_v1,01_account_and_password_faq,2,3,49,Account Management,faq,beginner,en,False,0,,221
+chunk_004_v1,01_account_and_password_faq,3,4,38,Account Management,howto,beginner,en,False,0,,176
+chunk_005_v1,01_account_and_password_faq,4,5,39,Account Management,troubleshooting,beginner,en,False,0,,203
+chunk_006_v1,02_network_troubleshooting_faq,0,1,64,Troubleshooting,informational,beginner,en,True,1,,326
+chunk_007_v1,02_network_troubleshooting_faq,1,2,53,Troubleshooting,troubleshooting,beginner,en,True,1,,253
+chunk_008_v1,02_network_troubleshooting_faq,2,3,35,Troubleshooting,howto,beginner,en,False,0,,147
+chunk_009_v1,02_network_troubleshooting_faq,3,4,42,Troubleshooting,troubleshooting,beginner,en,False,0,,217
+chunk_010_v1,02_network_troubleshooting_faq,4,5,37,Troubleshooting,troubleshooting,beginner,en,False,0,,181
+chunk_011_v1,02_network_troubleshooting_faq,5,6,45,Troubleshooting,informational,beginner,en,False,0,,205
+chunk_012_v1,03_software_installation_faq,0,1,65,Technical Support,informational,intermediate,en,True,1,,341
+chunk_013_v1,03_software_installation_faq,1,2,30,Technical Support,faq,intermediate,en,True,1,,164
+chunk_014_v1,03_software_installation_faq,2,3,32,Technical Support,faq,beginner,en,False,0,,179
+chunk_015_v1,03_software_installation_faq,3,4,40,Technical Support,troubleshooting,intermediate,en,False,0,,200
+chunk_016_v1,03_software_installation_faq,4,5,32,Technical Support,troubleshooting,intermediate,en,False,0,,176
+chunk_017_v1,04_security_and_safe_usage_faq,0,1,66,Security,informational,beginner,en,True,1,,331
+chunk_018_v1,04_security_and_safe_usage_faq,1,2,39,Security,howto,beginner,en,True,1,,201
+chunk_019_v1,04_security_and_safe_usage_faq,2,3,36,Security,faq,beginner,en,False,0,,173
+chunk_020_v1,04_security_and_safe_usage_faq,3,4,39,Security,faq,beginner,en,False,0,,195
+chunk_021_v1,04_security_and_safe_usage_faq,4,5,36,Security,faq,beginner,en,False,0,,192
+chunk_022_v1,05_multimodal_rag_faq_system_faq,0,1,79,General Information,informational,intermediate,en,True,1,,380
+chunk_023_v1,05_multimodal_rag_faq_system_faq,1,2,46,General Information,informational,beginner,en,True,1,,236
+chunk_024_v1,05_multimodal_rag_faq_system_faq,2,3,51,General Information,informational,intermediate,en,True,1,,259
+chunk_025_v1,05_multimodal_rag_faq_system_faq,3,4,46,General Information,faq,beginner,en,False,0,,235
+chunk_026_v1,05_multimodal_rag_faq_system_faq,4,5,36,General Information,informational,beginner,en,False,0,,176
+chunk_027_v1,05_multimodal_rag_faq_system_faq,5,6,46,General Information,informational,beginner,en,False,0,,240
